@@ -1,9 +1,9 @@
 # Pengelolaan Karyawan Online
 
 ### Sekilas
+- Aplikasi ini dibuat menggunakan Codeigniter 3.1.11 dengan konsep HMVC dan template admin LTE
 - Aplikasi ini bisa diterapkan untuk pengelolaan karyawan di kantor kamu, 
 ya memang tentunya akan ada penyesuaian dengan kebijakan yang ada di kantor kamu masing - masing.
-
 - Untuk modul modul yang ada pun akan ikut menyesuaikan dengan kebijakan yang ada,
 untuk di aplikasi ini saya berikan contoh untuk pengajuan cuti, yang tentunya tidak menutup kemungkinan
 akan adanya perbedaan dengan kantor kamu masing-masing, disinilah peran teman teman dalam mengembangkan aplikasi ini.
